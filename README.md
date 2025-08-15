@@ -1,5 +1,5 @@
 # darkboss1-facebook-id-advanced-clone
-# 🚀 darkboss1-facebook-id- advanced-clone
+#  darkboss1-facebook-id- advanced-clone
 
 darkboss1-facebook-id- advanced-clone is a powerful Termux-based script for cloning Facebook accounts using advanced and updated methods.  
 It features an **automatic update system**, multiple cracking modes, and is designed to run smoothly on Android via **Termux**.
@@ -8,9 +8,9 @@ It features an **automatic update system**, multiple cracking modes, and is desi
 
 ---
 
-## 📱 Termux Installation Guide
+##  Termux Installation Guide
 
-### 🧰 Requirements
+###  Requirements
 
 -  Termux (from GitHub)
 -  Internet connection
